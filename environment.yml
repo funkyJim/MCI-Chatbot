@@ -1,0 +1,8 @@
+name: MCI-Chatbot
+dependencies:
+    - python=3.10
+    - spacy
+    - keras
+    - tensorflow
+    - pandas
+    - jellyfish

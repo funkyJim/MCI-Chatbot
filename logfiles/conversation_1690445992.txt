@@ -1,0 +1,30 @@
+2023-07-27 11:19:56
+USER MESSAGE:		καλημερα
+CORRECTED MESSAGE:	καλημέρα
+BOT RESPONSE:		Γεια σας, πώς θα μπορούσα να σας βοηθήσω;
+BOT TAG:		greeting
+
+2023-07-27 11:20:02
+USER MESSAGE:		θελω να αγορασω γαλα
+CORRECTED MESSAGE:	θέλω να αγοράσω γάλα
+BOT RESPONSE:		Είναι αυτό το προϊόν που ψάχνετε?
+BOT TAG:		search_for_product
+
+2023-07-27 11:20:06
+USER MESSAGE:		ναι
+CORRECTED MESSAGE:	ναι
+BOT RESPONSE:		Πώς αλλιώς θα μπορούσα να σας εξυπηρετήσω;
+BOT TAG:		confirmation
+
+2023-07-27 11:20:15
+USER MESSAGE:		χρειαζομαι βοηθεια
+CORRECTED MESSAGE:	χρειάζομαι βοήθεια
+BOT RESPONSE:		Επεσήμανα ορισμένα σημεία στη σελίδα, ελπίζω να σας βοηθήσουν
+BOT TAG:		help
+
+2023-07-27 11:20:20
+USER MESSAGE:		σε ευχαριστω
+CORRECTED MESSAGE:	σε ευχαριστώ
+BOT RESPONSE:		Δεν κάνει τίποτα!
+BOT TAG:		thanks
+

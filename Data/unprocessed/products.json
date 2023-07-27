@@ -1,0 +1,362 @@
+[
+  {
+    "product_name": "Ψωμί",
+    "category": "Τρόφιμα, Ψωμί",
+    "price": "0.75",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ψωμί/"
+  },
+  {
+    "product_name": "Hansaplast Aδιάβροχα και Αποστειρωμένα Αυτοκόλλητα Επιθέματα Med Antibacterial Aqua Protect XXL 10x8cm 5τμχ",
+    "category": "Φαρμακείο, Επιθέματα",
+    "price": "2.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/hansaplast-aδιάβροχα-και-αποστειρωμένα-αυτοκό/"
+  },
+  {
+    "product_name": "Hansaplast Αποστειρωμένα Αυτοκόλλητα Επιθέματα Sensitive 3XL 15x10cm 25τμχ",
+    "category": "Φαρμακείο, Επιθέματα",
+    "price": "10",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/hansaplast-αποστειρωμένα-αυτοκόλλητα-επιθέμα/"
+  },
+  {
+    "product_name": "Sogex Παντόφλα WD59M-101 Μαύρη",
+    "category": "Φαρμακείο, Ανατομικά Παππούτσια",
+    "price": "40",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/sogex-παντόφλα-wd59m-101-μαύρη/"
+  },
+  {
+    "product_name": "Calzamedi Επαγγελματικό Σαμπό 3080 Ασπρο",
+    "category": "Φαρμακείο, Ανατομικά Παππούτσια",
+    "price": "45",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/calzamedi-επαγγελματικό-σαμπό-3080-ασπρο/"
+  },
+  {
+    "product_name": "ΜΕΓΑ Χειρουργικές Μάσκες μιας Χρήσης Τύπου II με Τριπλό Σύστημα Προστασίας Medium 50τμχ",
+    "category": "Φαρμακείο, Μάσκες",
+    "price": "8.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μεγα-χειρουργικές-μάσκες-μιας-χρήσης-2/"
+  },
+  {
+    "product_name": "ΜΕΓΑ Χειρουργικές Μάσκες Μιας Χρήσης Τύπου I [Μέγεθος: Medium] 5 Τεμάχια",
+    "category": "Φαρμακείο, Μάσκες",
+    "price": "1",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μεγα-χειρουργικές-μάσκες-μιας-χρήσης/"
+  },
+  {
+    "product_name": "Lanes Vitamin C 1000mg Orange 20 αναβράζοντα δισκία",
+    "category": "Φαρμακείο, Βιταμίνες",
+    "price": "3",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/lanes-vitamin-c-1000mg-orange-20-αναβράζοντα-δισκία/"
+  },
+  {
+    "product_name": "Uni-Pharma B12 Fix 1000mg 30tabs",
+    "category": "Φαρμακείο, Βιταμίνες",
+    "price": "7",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/uni-pharma-b12-fix-1000mg-30tabs/"
+  },
+  {
+    "product_name": "Αντισηπτικό Gel Χεριών Αντλία 400ml",
+    "category": "Φαρμακείο, Αντισηπτικά",
+    "price": "3.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αντισηπτικό-gel-χεριών-αντλία-400ml/"
+  },
+  {
+    "product_name": "Αντισηπτική Λοσιόν Χεριών Spray 70% 100ml",
+    "category": "Φαρμακείο, Αντισηπτικά",
+    "price": "1.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αντισηπτική-λοσιόν-χεριών-spray-70-100ml/"
+  },
+  {
+    "product_name": "Τσάι Μαύρο Βανίλια Καραμέλα 20x1.7gr",
+    "category": "Καφέδες, Τσάι",
+    "price": "3",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τσάι-μαύρο-βανίλια-καραμέλα-20x1-7gr/"
+  },
+  {
+    "product_name": "Τσάι Μαύρο 20x1.5g",
+    "category": "Καφέδες, Τσάι",
+    "price": "1.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τσάι-μαύρο-20x1-5g/"
+  },
+  {
+    "product_name": "Κάψουλες Καφέ Espresso Intenso 128g",
+    "category": "Καφέδες, Κάψουλες",
+    "price": "5.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/κάψουλες-καφέ-espresso-intenso-128g/"
+  },
+  {
+    "product_name": "Στιγμιαίος Καφές 200gr",
+    "category": "Καφέδες",
+    "price": "6",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/στιγμιαίος-καφές-200gr/"
+  },
+  {
+    "product_name": "ΝΤΟΣΙΕ PRESPAN 25 X 35 ~ 1 ΤΕΜ",
+    "category": "Βιβλιοπωλείο, Ντοσιέ",
+    "price": "0.7",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ντοσιε-prespan-25-x-35-1-τεμ/"
+  },
+  {
+    "product_name": "Τετράδιο Σπιράλ Ριγέ 100 Φύλλα 1 Τεμάχιο",
+    "category": "Βιβλιοπωλείο, Τετράδια",
+    "price": "2.4",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τετράδιο-σπιράλ-ριγέ-100-φύλλα-1-τεμάχιο/"
+  },
+  {
+    "product_name": "Τετράδιο Μαθητικό Μπλε Ριγέ 50 Φύλλα 1 Τεμάχιο",
+    "category": "Βιβλιοπωλείο, Τετράδια",
+    "price": "0.6",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τετράδιο-μαθητικό-μπλε-ριγέ-50-φύλλα-1-τε/"
+  },
+  {
+    "product_name": "Στυλό Cristal Clic 1.0mm Μπλε 4 Τεμάχια",
+    "category": "Βιβλιοπωλείο, Στυλό",
+    "price": "2.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/στυλό-cristal-clic-1-0mm-μπλε-4-τεμάχια/"
+  },
+  {
+    "product_name": "BIC BIC BIC Kάνε κλικ για μεγέθυνση BIC BIC BIC  BIC Στυλό Cristal Original 1.0mm Μπλε 4 Τεμάχια",
+    "category": "Βιβλιοπωλείο, Στυλό",
+    "price": "1",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/bic-bic-bic-kάνε-κλικ-για-μεγέθυνση-bic-bic-bic-bic-στυλό-cristal-original-1-0m/"
+  },
+  {
+    "product_name": "Υγρά Μαντηλάκια με Αντιβακτηριδιακά Στοιχεία 15 τεμάχια",
+    "category": "Χαρτικά, Μαντηλάκια",
+    "price": "2.55",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/υγρά-μαντηλάκια-με-αντιβακτηριδιακά/"
+  },
+  {
+    "product_name": "Χαρτοπετσέτες Λευκές 28x30cm 115g",
+    "category": "Χαρτικά, Χαρτοπετσέτες",
+    "price": "0.45",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/χαρτοπετσέτες-λευκές-28x30cm-115g/"
+  },
+  {
+    "product_name": "ΧΑΡΤΙ ΚΟΥΖΙΝΑΣ 2 ΦΥΛΛΑ 4 ΤΕΜ",
+    "category": "Χαρτικά, Χαρτί Κουζίνας",
+    "price": "2",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/χαρτι-κουζινασ-2-φυλλα-4-τεμ/"
+  },
+  {
+    "product_name": "ΧΑΡΤΙ ΥΓΕΙΑΣ 2 ΦΥΛΛΑ 24 ΤΕΜ",
+    "category": "Χαρτικά, Χαρτί Υγείας",
+    "price": "5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/χαρτι-υγειασ-2-φυλλα-24-τεμ/"
+  },
+  {
+    "product_name": "Κρεμοσάπουνο Hygiene Plus Αντλία 300ml",
+    "category": "Προϊόντα Περιποίησης, Σαπούνι Χεριών",
+    "price": "1.2",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/κρεμοσάπουνο-hygiene-plus-αντλία-300ml/"
+  },
+  {
+    "product_name": "Σαπούνι Μπάρα Άρωμα Φρεσκάδας 100g",
+    "category": "Προϊόντα Περιποίησης, Σαπούνι Χεριών",
+    "price": "3",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/σαπούνι-μπάρα-άρωμα-φρεσκάδας-100g/"
+  },
+  {
+    "product_name": "Αφρός Ξυρίσματος Sensitive 250ml",
+    "category": "Προϊόντα Περιποίησης, Αφρός Ξυρίσματος",
+    "price": "2.8",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αφρός-ξυρίσματος-sensitive-250ml/"
+  },
+  {
+    "product_name": "Ξυριστική Μηχανή Fusion 5 Proglide & Ανταλλακτικό 1 Τεμάχιο",
+    "category": "Προϊόντα Περιποίησης, Ξυραφάκια",
+    "price": "10",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ξυριστική-μηχανή-fusion-5-proglide-ανταλλακτικό-1-τε/"
+  },
+  {
+    "product_name": "Οδοντόβουρτσα 360 Μέτρια 1 Τεμάχιο",
+    "category": "Προϊόντα Περιποίησης, Οδοντόβουρτσες",
+    "price": "2.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/οδοντόβουρτσα-360-μέτρια-1-τεμάχιο/"
+  },
+  {
+    "product_name": "Οδοντόβουρτσα Zig Zag Μέτρια 2 Τεμάχια",
+    "category": "Προϊόντα Περιποίησης, Οδοντόβουρτσες",
+    "price": "2",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/οδοντόβουρτσα-zig-zag-μέτρια-2-τεμάχια/"
+  },
+  {
+    "product_name": "Οδοντόκρεμα Max White Optic 75ml",
+    "category": "Προϊόντα Περιποίησης, Οδοντόκρεμα",
+    "price": "2.2",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/οδοντόκρεμα-max-white-optic-75ml/"
+  },
+  {
+    "product_name": "Υγρό Απορρυπαντικό Πιάτων Πράσινο Σαπούνι 500ml",
+    "category": "Καθαριστικά, Σαπούνι Πιάτων",
+    "price": "3",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/υγρό-απορρυπαντικό-πιάτων-πράσινο-σα/"
+  },
+  {
+    "product_name": "Χλωρίνη Ultra Protection Lemon Παχύρευστη 750ml",
+    "category": "Καθαριστικά, Χλωρίνη",
+    "price": "1.76",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/χλωρίνη-ultra-protection-lemon-παχύρευστη-750ml/"
+  },
+  {
+    "product_name": "Αποσκληρυντικό Νερού Anti-Kalk 54g",
+    "category": "Καθαριστικά, Καθαριστικό Πλυντηρίου",
+    "price": "0.80",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αποσκληρυντικό-νερού-anti-kalk-54g/"
+  },
+  {
+    "product_name": "Αποσκληρυντικό Νερού Πλυντηρίου Ρούχων Ταμπλέτες 15 Τεμάχια",
+    "category": "Καθαριστικά, Καθαριστικό Πλυντηρίου",
+    "price": "8",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αποσκληρυντικό-νερού-πλυντηρίου-ρού/"
+  },
+  {
+    "product_name": "Λαβράκι Καθαρισμένο Υδατοκαλλιέργειας Ελληνικό",
+    "category": "Κρεοπωλείο, Ψάρια",
+    "price": "6",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/λαβράκι-καθαρισμένο-υδατοκαλλιέργει/"
+  },
+  {
+    "product_name": "Τσιπούρα Καθαρισμένη Υδατοκαλλιέργειας Ελληνική",
+    "category": "Κρεοπωλείο, Ψάρια",
+    "price": "5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τσιπούρα-καθαρισμένη-υδατοκαλλιέργε/"
+  },
+  {
+    "product_name": "Μοσχαρίσιο Ribeye Βόεια Άνευ Οστού Αργεντινής 240gr",
+    "category": "Κρεοπωλείο, Κρεάτα",
+    "price": "5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μπριζόλα-ribeye-βόεια-άνευ-οστού-αργεντινή/"
+  },
+  {
+    "product_name": "Κοτόπουλο Ολόκληρο Νωπό Ελληνικό",
+    "category": "Κρεοπωλείο, Κρεάτα",
+    "price": "7",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/κοτόπουλο-ολόκληρο-νωπό-ελληνικό/"
+  },
+  {
+    "product_name": "Φιλέτο Στήθος Κοτόπουλο 650g",
+    "category": "Κρεοπωλείο, Κρεάτα",
+    "price": "5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/φιλέτο-στήθος-κοτόπουλο-650g/"
+  },
+  {
+    "product_name": "Παντζάρια Βρασμένα Ελληνικά 500 gr",
+    "category": "Μανάβικο, Λαχανικά",
+    "price": "1.7",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/παντζάρια-βρασμένα-ελληνικά-500-gr/"
+  },
+  {
+    "product_name": "Αρακάς Κατεψυγμένος 1kg",
+    "category": "Μανάβικο, Λαχανικά",
+    "price": "3",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/αρακάς-κατεψυγμένος-1kg/"
+  },
+  {
+    "product_name": "ΠΑΤΑΤΕΣ ΨΙΛΕΣ ΒΑΒΥ ΓΑΛΛΙΑΣ ΣΥΣΚΕΥΑΣΜΕΝΕΣ ~1 κιλ",
+    "category": "Μανάβικο, Λαχανικά",
+    "price": "1.59",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/πατατεσ-ψιλεσ-βαβυ-γαλλιασ-συσκευασμ/"
+  },
+  {
+    "product_name": "Μανταρίνια Κλημεντίνες Βιολογικά Συσκευασμένα ~ 1kg",
+    "category": "Μανάβικο, Φρούτα",
+    "price": "1.2",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μανταρίνια-κλημεντίνες-βιολογικά-συ/"
+  },
+  {
+    "product_name": "Μπανάνες Βιολογικής Γεωργίας Εισαγωγής ~1 κιλ",
+    "category": "Μανάβικο, Φρούτα",
+    "price": "2.12",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μπανάνες-βιολογικής-γεωργίας-εισαγω/"
+  },
+  {
+    "product_name": "Τυρί Φέτα ΠΟΠ Σε Άλμη 400gr",
+    "category": "Γαλακτοκομικά, Τυριά",
+    "price": "5.30",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τυρί-φέτα-ποπ-σε-άλμη-400gr/"
+  },
+  {
+    "product_name": "Τυρί Τρικαλινό Ελαφρύ Φέτες 200g",
+    "category": "Γαλακτοκομικά, Τυριά",
+    "price": "2.5",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τυρί-τρικαλινό-ελαφρύ-φέτες-200g/"
+  },
+  {
+    "product_name": "Τυρί Ημίσκληρο Γκούντα Φέτες 340gr",
+    "category": "Γαλακτοκομικά, Τυριά",
+    "price": "4",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/τυρί-ημίσκληρο-γκούντα-φέτες-340gr/"
+  },
+  {
+    "product_name": "Γιαούρτι Στραγγιστό 2% Λιπαρά 3x200g",
+    "category": "Γαλακτοκομικά, Γιαούρτι",
+    "price": "3.50",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/γιαούρτι-στραγγιστό-2-λιπαρά-3x200g/"
+  },
+  {
+    "product_name": "Βούτυρο Ανάλατο Σκαφάκι 225g",
+    "category": "Γαλακτοκομικά, Βούτυρο",
+    "price": "3.70",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/βούτυρο-ανάλατο-σκαφάκι-225g/"
+  },
+  {
+    "product_name": "Γάλα 1 lt",
+    "category": "Γαλακτοκομικά, Γάλα",
+    "price": "1",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/γάλα-1-lt/"
+  },
+  {
+    "product_name": "Γάλα Υψηλής Παστερίωσης Βιολογικό 3,7% Λιπαρά 1 lt",
+    "category": "Γαλακτοκομικά, Γάλα",
+    "price": "2.22",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/γάλα-υψηλής-παστερίωσης-βιολογικό-37-λι/"
+  },
+  {
+    "product_name": "Ρύζι Bella Για Πιλάφι Ελληνικό 500 gr",
+    "category": "Τρόφιμα, Ρύζι",
+    "price": "2.37",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ρύζι-bella-για-πιλάφι-ελληνικό-500-gr/"
+  },
+  {
+    "product_name": "Ρύζι Καρολίνα Ε.Ε. 500 gr",
+    "category": "Τρόφιμα, Ρύζι",
+    "price": "1.80",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ρύζι-καρολίνα-ε-ε-500-gr/"
+  },
+  {
+    "product_name": "Σπαγγετίνι Νο7 500g",
+    "category": "Τρόφιμα, Μακαρόνια",
+    "price": "0.93",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/σπαγγετίνι-νο7-500g/"
+  },
+  {
+    "product_name": "Μακαρόνια Σπαγγέτι Νο 6 500 gr",
+    "category": "Τρόφιμα, Μακαρόνια",
+    "price": "0.83",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/μακαρόνια-σπαγγέτι-νο-6-500-gr/"
+  },
+  {
+    "product_name": "Φρυγανιές Χωριάτικες με Σουσάμι 240g",
+    "category": "Τρόφιμα, Φρυγανιές",
+    "price": "1.98",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/φρυγανιές-χωριάτικες-με-σουσάμι-240g/"
+  },
+  {
+    "product_name": "Φρυγανιές Σίτου 4x125g",
+    "category": "Τρόφιμα, Φρυγανιές",
+    "price": "1.78",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/φρυγανιές-σίτου-4x125g/"
+  },
+  {
+    "product_name": "ΨΩΜΙ ΣΕ ΦΕΤΕΣ ΟΛΙΚΗΣ 720 GR",
+    "category": "Τρόφιμα, Ψωμί",
+    "price": "2.02",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ψωμι-σε-φετεσ-ολικησ-720-gr/"
+  },
+  {
+    "product_name": "Ψωμί Τοστ Ψίχα Σίτου 480g",
+    "category": "Τρόφιμα, Ψωμί",
+    "price": "2.06",
+    "url": "http://demosites.gr.dedi4051.your-server.de/supermarket/product/ψωμί-τοστ-ψίχα-σίτου-480g/"
+  }
+]
